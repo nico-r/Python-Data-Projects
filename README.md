@@ -46,6 +46,7 @@ sp500 = fred.get_series(series_id='SP500')
 sp500.plot(figsize=(10, 5), title='S&P 500', lw=2)
 plt.show()
 ```
+![image](https://github.com/user-attachments/assets/56e4cc82-9572-430b-a1a3-945b01ca64cd)
 
 ### 🔹 Analizar la Tasa de Desempleo por Estado
 ```python
